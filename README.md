@@ -106,7 +106,7 @@ the user is responsible.
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/HOLISTER123/wiki)
 
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
